@@ -62,7 +62,7 @@ I'm always interested in collaborating on projects that involve DevOps, Kubernet
 
 - **LinkedIn**: [in/oronsayecollins](https://www.linkedin.com/in/oronsayecollins/)
 - **Website**: [www.ochestra.io](http://www.ochestra.io/)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: [your-email@example.com](mailto:c.oronsaye@ochestra.io)
 
 ---
 
