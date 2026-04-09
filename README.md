@@ -67,5 +67,5 @@ I'm always interested in collaborating on projects that involve DevOps, Kubernet
 ---
 
 <div align="center">
-  <img alt="Footer Wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&text=Collins%20Oronsaye&fontSize=40" />
+  <img alt="Footer Wave" src="https://media.licdn.com/dms/image/v2/D4E16AQFZGzBHC_-wfg/profile-displaybackgroundimage-shrink_350_1400/B4EZztiPKCI8AY-/0/1773511703275?e=1777507200&v=beta&t=9YElZT_ABNfMaXYjcaVwC2Q8qQvpucKfCIzsabMqCpw" />
 </div>
