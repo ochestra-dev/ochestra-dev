@@ -6,9 +6,11 @@
 
 ## 👋 About Me
 
-I'm Collins Oronsaye, a software engineer dedicated to crafting and sharing solutions that enable agile development, delivery, and operation of complex enterprise software solutions. With expertise in DevOps, Kubernetes, and GitOps, I build tools and infrastructure that empower teams to deliver software efficiently and reliably.
+I am a strategic technology leader with expertise in defining and implementing enterprise-wide architecture for scalable software systems, cloud-native application delivery instrastructures, autonomous AI agents and Generative AI solutions.
 
-Based in the United Kingdom, I work on projects that span from algorithm implementations to full-scale enterprise deployments using modern cloud-native technologies.
+With over 20 years of experience in software engineering, I am currently leading the engineering innovation for KubeOpera at Ochestra Technologies Limited, a technology modernisation consulting firm, focused on the simplifying and democratizing Kubernetes operations for startups and software engineering teams. By leveraging expertise in cloud-native architectures, the team at Ochestra designed "Kubeopera," a platform that enhances workload reliability, optimizes performance, and reduces operational costs.
+
+Currently based in the United Kingdom, I work on projects that span from microservices, web and mobile apps to full-scale enterprise deployments using modern cloud-native technologies.
 
 ## 🛠️ Tech Stack
 
