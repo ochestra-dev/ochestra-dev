@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Footer Wave" src="https://media.licdn.com/dms/image/v2/D4E16AQFZGzBHC_-wfg/profile-displaybackgroundimage-shrink_350_1400/B4EZztiPKCI8AY-/0/1773511703275?e=1777507200&v=beta&t=9YElZT_ABNfMaXYjcaVwC2Q8qQvpucKfCIzsabMqCpw" />
+  <img alt="Ochestra" src="https://github.com/ochestra-tech/kube-monitor/blob/main/images/hla.png" />
 </div>
 
 # Collins Oronsaye
